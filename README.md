@@ -4,7 +4,8 @@ Implementacion de la librería tf.distribute.Strategy de TensorFlow.
 tf.distribute.Strategy
  API para distribuir en múltiples GPU, CPU o TPU.
  
- ![Data set utilizado:](mnist.png)
+![Estrategia:](mirroredstrategy.png)
+![Data set utilizado:](mnist.png)
 Pasos realizados:
 
 1. Se carga el dataset MNIST.
