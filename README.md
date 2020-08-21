@@ -4,7 +4,6 @@ Implementacion de la librería tf.distribute.Strategy de TensorFlow.
 tf.distribute.Strategy
  API para distribuir en múltiples GPU, CPU o TPU.
  
- ![Mirrored Strategy](mirroredstrategy.png)
  ![Data set utilizado:](mnist.png)
 Pasos realizados:
 
@@ -15,7 +14,7 @@ Pasos realizados:
 5. Se compara el tiempo de ejecucion de realizar el entrenamiento distribuido vs el no distribuido.
 6. Se valida el modelo.
 
- ![Resultados obtenidos:](resultados.png)
+ ![Resultados obtenidos:](resultados.PNG)
  
  
 
